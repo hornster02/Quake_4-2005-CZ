@@ -1,2 +1,3 @@
-# Quake_4-2005-CZ
-Quake 4 - cestina dabing download rar 2005
+Steam (2024-02)
+<br/>
+Včetně CZ dabingu. Velikost 69MB https://drive.google.com/drive/folders/1RrLpM0_3FRRBXLCKRIDTY0gNxRgUDMPS
