@@ -6,7 +6,13 @@ https://drive.google.com/drive/folders/1RrLpM0_3FRRBXLCKRIDTY0gNxRgUDMPS
 
 Postup
 <br/>
--ve složce "q4base" smazat všechny soubory "zpak_english..." a pak nakopírovat CZ (soubor "autoexec.cfg" obsahuje maximální nastavení grafiky, které jinak může být problém v menu hry na novějším HW zapnout)
+-ve složce "q4base" smazat všechny soubory "zpak_english..." a pak nakopírovat CZ
+<br/>
+<br/>
+<br/>
+maximální nastavení grafiky, které jinak může být problém v menu hry na novějším HW zapnout
+<br/>
+https://github.com/hornster02/Quake_4-2005-CZ/raw/main/ultra.rar
 <br/>
 <br/>
 <br/>
