@@ -1,10 +1,12 @@
 Steam (2024-02)
 <br/>
-Včetně CZ dabingu a zapnuté mimiky tváří. Velikost 69MB https://drive.google.com/drive/folders/1RrLpM0_3FRRBXLCKRIDTY0gNxRgUDMPS
+Včetně CZ dabingu + odstraněné břichomluvectví (většina prodávaných CZ verzí/patchů měla pohyb úst při mluvení z nějakého důvodu vypnutý). Velikost 69MB
+<br/>
+https://drive.google.com/drive/folders/1RrLpM0_3FRRBXLCKRIDTY0gNxRgUDMPS
 
 Postup
 <br/>
--ve složce "q4base" smazat všechny soubory "zpak_english..." a pak nakopírovat CZ (soubor "autoexec.cfg" obsahuje maximální nastavení grafiky, které jinak může být problém na novejším HW v menu hry zapnout)
+-ve složce "q4base" smazat všechny soubory "zpak_english..." a pak nakopírovat CZ (soubor "autoexec.cfg" obsahuje maximální nastavení grafiky, které jinak může být problém v menu hry na novějším HW zapnout)
 <br/>
 <br/>
 <br/>
@@ -14,4 +16,4 @@ ESC (držet 1 vteřinu) - vypnout hru (nemusí být v popředí a ani reagovat)
 <br/>
 c - přepínač skrčení
 <br/>
-pravé tlačítko myši - přepínač míření
+prostřední tlačítko myši - přepínač míření
