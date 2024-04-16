@@ -1,8 +1,5 @@
 Steam (2024-02)
-<br/>
-Včetně CZ dabingu + odstraněné břichomluvectví (většina prodávaných CZ verzí/patchů měla pohyb úst při mluvení z nějakého důvodu vypnutý). Velikost 69MB
-<br/>
-https://drive.google.com/drive/folders/1RrLpM0_3FRRBXLCKRIDTY0gNxRgUDMPS
+Velikost 69MB https://drive.google.com/drive/folders/1RrLpM0_3FRRBXLCKRIDTY0gNxRgUDMPS
 
 Postup
 <br/>
